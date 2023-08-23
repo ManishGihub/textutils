@@ -1,6 +1,6 @@
 # TextUtils
 
-This is a TextUtils application built using react and can be used as - word counter | character counter | uppercase to lowercase |lowercase to uppercase<br>
+This is a TextUtils application built using react and can be used as - a word counter | character counter | uppercase to lowercase | lowercase to uppercase.<br>
 You can Enable dark mode and light mode.
 
 ![Screenshot (5)](https://github.com/ManishGihub/textutils/assets/102681545/10729e75-fc22-47fe-84ff-f17f45438eba)
